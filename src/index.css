@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #10141A;
+  --panel: #161B22;
+  --text: #EDEFF2;
+  --muted: rgba(237, 239, 242, 0.62);
+  --accent: #C69A4E;
+  --line: rgba(237, 239, 242, 0.14);
+
+  --bg-light: #F6F4EF;
+  --panel-light: #FFFFFF;
+  --text-dark: #14181C;
+  --muted-dark: rgba(20, 24, 28, 0.6);
+  --line-dark: rgba(20, 24, 28, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  background: var(--bg);
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: var(--text);
+}
+
+.display-font {
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
