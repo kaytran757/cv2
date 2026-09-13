@@ -31,7 +31,7 @@ const stages: Stage[] = [
   },
   {
     period: 'Giai đoạn 4',
-    title: 'AI Automation - hệ thống email tìm & tiếp cận khách hàng',
+    title: 'AI Automation - xây dựng hệ thống email tìm & tiếp cận khách hàng',
     description:
       'Xây hệ thống tự động thu thập lead từ LinkedIn và job board, dựng chân dung khách hàng mục tiêu (ICP), gửi tự động cả nghìn email cá nhân hoá mỗi ngày qua Instantly/make.com.',
     tags: ['Lead generation', 'Email automation', 'n8n', 'ICP & personalization'],
