@@ -17,7 +17,7 @@ const stages: Stage[] = [
   },
   {
     period: 'Giai đoạn 2',
-    title: 'Consultant - đội nhóm tư vấn thứ hai (remote)',
+    title: 'Sales Consultant - đội nhóm tư vấn thứ hai (remote)',
     description:
       'Tiếp tục công việc tư vấn từ xa ở một đội nhóm khác, mở rộng kinh nghiệm làm việc với nhiều mô hình khách hàng và quy trình sale khác nhau.',
     tags: ['Consulting', 'Remote'],
