@@ -24,7 +24,7 @@ const stages: Stage[] = [
   },
   {
     period: 'Giai đoạn 3',
-    title: 'Video Editing & Affiliate Marketing',
+    title: 'Affiliate Marketing',
     description:
       'Tự dựng và phát triển 2 kênh Instagram lên khoảng 45.000 và 35.000 người theo dõi. Tự biên tập video, xây nội dung, và kiếm tiền qua affiliate marketing.',
     tags: ['Video editing', 'Content', 'Instagram growth', 'Affiliate marketing'],
