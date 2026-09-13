@@ -40,7 +40,7 @@ const stages: Stage[] = [
     period: 'Hiện tại',
     title: 'Web Development - vibe coding',
     description:
-      'Tự thiết kế và dựng website bằng các công cụ vibe-coding hiện đại, đi từ ý tưởng đến sản phẩm chạy được nhanh, không phụ thuộc vào đội ngũ kỹ thuật lớn.',
+      'Tự thiết kế và dựng website bằng các công cụ vibe-coding hiện đại, đi từ ý tưởng đến sản phẩm, website được host nhanh, không phụ thuộc vào đội ngũ kỹ thuật lớn.',
     tags: ['Web development', 'Vibe coding', 'Thiết kế giao diện'],
   },
 ];
